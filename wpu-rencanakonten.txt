@@ -3,7 +3,10 @@ rencana konten wpu
 - javascript
  *es6
  *framework javascript
+   - vue
 - fundamental data structure
 - php frameworks
+    - laravel
 - interview
 - vlog
+- python
