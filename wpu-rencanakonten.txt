@@ -3,6 +3,7 @@ rencana konten wpu
 - javascript
  *es6
  *framework javascript
+ *angular
 - fundamental data structure
 - php frameworks
     - laravel
